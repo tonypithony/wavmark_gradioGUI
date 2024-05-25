@@ -1,0 +1,9 @@
+gradio==4.1.1
+matplotlib==3.7.2  # gradio 4.1.1 needs matplotlib 3.7.2
+librosa==0.10.1
+resampy==0.4.2
+soundfile==0.12.1
+numpy==1.26.0
+torch==1.12.1
+torchaudio==0.12.1
+typing_extensions==4.8.0
