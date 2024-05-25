@@ -47,3 +47,15 @@ After revealing a watermark with your watermark to verify,
 
 If no watermark needs to be verified, it won't show the accuracy and BER
 ![img.png](.asset/after_reveal.png)
+
+
+![](https://raw.githubusercontent.com/tonypithony/wavmark_gradioGUI/main/samples/Capture.PNG)
+
+
+![](https://raw.githubusercontent.com/tonypithony/wavmark_gradioGUI/main/samples/31bits-wm.PNG)
+
+
+## Sources
+
+* [Gradio](https://www.gradio.app/guides/quickstart)
+* [Signal-to-noise ratio (SNR or S/N)](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
